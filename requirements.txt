@@ -1,0 +1,11 @@
+streamlit
+requests
+pandas
+matplotlib
+networkx
+scikit-learn
+bertopic
+torch
+scikit-learn
+umap-learn
+hdbscan
