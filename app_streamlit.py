@@ -150,8 +150,8 @@ def plot_citation_graph(G: nx.DiGraph, top_n: int = 25):
 # -----------------------------
 # Streamlit UI
 # -----------------------------
-st.set_page_config(page_title="CNT & CCUS Research Explorer", layout="wide")
-st.title("📚 CNT & CCUS Research Explorer — Topics + Networks")
+st.set_page_config(page_title="Research Paper Explorer", layout="wide")
+st.title("📚 Research Paper Explorer — Topics + Publications + Networks")
 
 with st.sidebar:
     st.header("Search & Options")
