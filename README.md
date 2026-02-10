@@ -75,3 +75,7 @@ pip install -r requirements.txt
 streamlit run app_streamlit.py
 ```
 
+# Streamlit link
+```
+https://data-scraper-ai-tool.streamlit.app/
+```
