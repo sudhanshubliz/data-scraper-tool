@@ -5,9 +5,8 @@ Research Paper Explorer is an open-source tool designed to help **students, rese
 
 It enables users to explore scholarly data efficiently and transform raw publications into meaningful insights.
 
-![](/Users/sudhanshu_thakur/Downloads/paper.png)
+![paper.png](paper.png)
 ---
-
 ## 🚀 Features
 
 ✔️ Automated Research Paper Scraping  
